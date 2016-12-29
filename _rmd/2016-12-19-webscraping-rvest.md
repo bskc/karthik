@@ -1,0 +1,6 @@
+Web scrapping with Rvest
+================
+
+Cricket has always been the most popular sport in India. Some people are just obsessed with 'numbers'. From most 'number' of runs scored to most 'number' of wickets taken and the list goes on. I haven't followed cricket for a while now, might come as a surprise, considering that i live in a cricket frenzy nation. It wasn't until recently i started following the sport again, i was curious to find out which players have been doing well and which weren't.
+
+[readmore](file:///H:/Data%20and%20scripts%20for%20all%20videos/karthik.github.io/_rmd/2016-12-19-webscraping-rvest.html)
